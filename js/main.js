@@ -12,4 +12,5 @@
             loop:true
         });
     }
+
 })(jQuery);
